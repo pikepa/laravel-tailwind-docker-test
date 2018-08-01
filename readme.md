@@ -8,7 +8,7 @@ This repository (**laravel-tailwind-docker-test**) uses the following key packag
 * shipping-docker/vessel 3.0,
 * laravel-frontend-presets/tailwindcss 0.6.0,
 
-and is set up to be downloaded and run as is, by typing 
+and is set up to be downloaded, and with **Docker** installed on your machine this should run as is, by typing 
 
 ```
 ./vessel start
