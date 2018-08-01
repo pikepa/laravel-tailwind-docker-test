@@ -13,3 +13,6 @@ and is set up to be downloaded and run as is, by typing
 ```
 ./vessel start
 ```
+then goto 127.0.0.1:80 and the default laravel application will run.
+
+This is provided as is, with no guarantees to warranty.
